@@ -82,7 +82,7 @@
     "dataloader": "^2.2.3",
     "date-fns": "^4.1.0",
     "debug": "^4.4.0",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "elkjs": "^0.10.0",
     "embla-carousel-react": "8.5.2",
     "events": "^3.3.0",
